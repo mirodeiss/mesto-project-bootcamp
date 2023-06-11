@@ -1,17 +1,7 @@
-# Проект: Место
+# Проект: Mesto
 
-### Обзор
-
-* Figma
-* Картинки
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+### О проекте
+## Сервис Mesto: интерактивная страница, куда можно добавлять фотографии, удалять их и ставить лайки.
+## Функцонал: **Стек технологий:** HTML5; CSS3: Flexbox; Grid layout; Positioning; Методология БЭМ; Фйловая структура Nested БЭМ;Вёрстка по макету в Figma. Страница адаптивна.
+* [Ссылка на макет в Figma](https://www.figma.com/file/T69Jetr9Ayk8PPwDeaJUAt/JavaScript.-Sprint-4-(Copy)?type=design&node-id=28212-155&t=4i12XP2Nqgst6ITR-0)
+* [Ссылка на сайт проекта](https://mirodeiss.github.io/russian-travel-bootcamp/)
