@@ -1,0 +1,9 @@
+.profile__card{
+    display: flex;
+    align-items: center;
+}
+@media (max-width:890px){
+    .profile__card{
+        flex-direction: column;
+    }
+}

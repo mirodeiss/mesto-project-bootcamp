@@ -1,0 +1,23 @@
+.profile__edit_button{
+    background-image: url(../../../images/Edit\ Button.svg);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    border: 1px solid #fff;
+    width: 24px;
+    height: 24px;
+    margin-left: 18px;
+    margin-top: 15px;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+@media (max-width:890px){
+    .profile__edit_button{
+        width: 18px;
+        height: 18px;
+        margin-left: 10px;
+        margin-top: 9px;
+    }
+}

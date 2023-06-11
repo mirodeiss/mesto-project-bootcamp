@@ -1,3 +1,11 @@
 .line{
-   
+   border: 1px solid #545454;
+   opacity: 0.3;
+   width: 100%;
+   margin-top: 41px;
+}
+@media (max-width:890px){
+   .line{
+      margin-top: 31px;
+   }
 }
